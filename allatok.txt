@@ -1,0 +1,6 @@
+kutya Bubu 5 barna
+macska Cirmi 3 fekete
+cica Zsolti 1 szürke
+kutya Fido 2 fehér
+madár Csiri 1 piros
+kígyó Kígyó 4 zöld
